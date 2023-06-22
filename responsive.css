@@ -1,0 +1,46 @@
+#services{
+    flex-wrap: wrap;
+    padding: 0px 0px;
+    
+}
+#services .box{
+    padding: 10px;
+    margin: 8px 4px;
+    width: 100%;
+}
+#about{
+    flex-wrap: wrap;
+flex-direction: column;
+
+}
+#offer{
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 18px;
+}
+#offer h2{
+    font-size: 2rem;
+    margin: 2px;
+    
+}
+#offer img{
+   padding-bottom: 8px;
+   height: 150px;
+    
+}
+#contact form {
+    width: 85%;
+}
+#navbar{
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+#navbar::before{
+    height: 115%;
+    
+}
+
+#logo{
+    margin: 2px 0px;
+
+}
